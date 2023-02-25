@@ -7,6 +7,7 @@ I created a Root user in AWS console and the created an IAM sub account and gave
 After creating the IAM account, set up MFA, access keys and secret for added security
 
 Created a logical diagram on Lucid Lucid logical diagram
+
 <img width="332" alt="AWS Cloud Bootcamp" src="https://user-images.githubusercontent.com/68391442/221335127-d2feae58-09f7-450b-8ea3-798f33a44c5b.PNG">
 
 
@@ -21,6 +22,7 @@ Installed CLI in Gitpod by adding a script to the .gitpod.yml file
 I set up AWS CLI to set up a budget and billing alarms
 
 Added the gitpod extension to my github repo
+
 <img width="910" alt="Gitpod" src="https://user-images.githubusercontent.com/68391442/221335245-46498992-5f41-4b78-aef6-60bf643d8a58.PNG">
 
 
