@@ -28,3 +28,5 @@ Added the gitpod extension to my github repo
 
 I then had to Scrub my data from my repo using BFG
 
+<img width="951" alt="Gitpod1" src="https://user-images.githubusercontent.com/68391442/221335408-f905b168-5760-4bbe-8aed-8ad54c5ab44d.PNG">
+<img width="584" alt="Gitpod2" src="https://user-images.githubusercontent.com/68391442/221335411-615a009a-cfe1-4025-ae47-3c691248923a.PNG">
