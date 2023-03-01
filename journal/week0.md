@@ -7,6 +7,7 @@ I created a Root user in AWS console and the created an IAM sub account and gave
 After creating the IAM account, set up MFA, access keys and secret for added security
 
 Created a logical diagram on Lucid Lucid logical diagram https://lucid.app/lucidchart/7a573053-b5b8-4e87-a51f-61779d67fce0/edit?invitationId=inv_019edb2d-b3fc-43db-97a9-12edf923f162
+
 <img width="332" alt="AWS Cloud Bootcamp" src="https://user-images.githubusercontent.com/68391442/221335127-d2feae58-09f7-450b-8ea3-798f33a44c5b.PNG">
 
 
